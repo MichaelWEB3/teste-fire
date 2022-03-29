@@ -1,14 +1,15 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto test softwrap criado com reactjs [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+Baixer e instale as depedencias com yarn install ou npm install
+### `yarn install ou npm install`
 In the project directory, you can run:
 
-### `npm start`
+### `npm start ou yarn start`
 
-Runs the app in the development mode.\
+Projeto ira abrir localmente na porta 3000.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
