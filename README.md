@@ -5,7 +5,6 @@ Projeto test softwrap criado com reactjs [Create React App](https://github.com/f
 ## Available Scripts
 Baixer e instale as depedencias com yarn install ou npm install
 ### `yarn install ou npm install`
-In the project directory, you can run:
 
 ### `npm start ou yarn start`
 
